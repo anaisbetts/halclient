@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>HALClient.Portable</id>
+    <version>$version$</version>
+    <authors>Niklas Närhinen, Paul Betts</authors>
+    <owners>Paul Betts</owners>
+    <projectUrl>https://github.com/xpaulbettsx/halclient</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>HALClient is a standalone client consuming HAL powered hypermedia APIs</description>
+    <copyright>Copyright 2012</copyright>
+    <tags>HAL HTTP JSON</tags>
+
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="4.5.11" />
+    </dependencies>
+  </metadata>
+</package>
