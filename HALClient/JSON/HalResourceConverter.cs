@@ -9,7 +9,7 @@ using Newtonsoft.Json.Linq;
 
 namespace Ecom.Hal.JSON
 {
-	class HalResourceConverter : JsonConverter
+	public class HalResourceConverter : JsonConverter
 	{
 		public HalResourceConverter(Type type = null)
 		{
